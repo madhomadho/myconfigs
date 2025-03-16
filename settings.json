@@ -22,8 +22,6 @@
     "terminal.integrated.tabs.location": "right",
     "markdown.preview.scrollEditorWithPreview": true,
     "markdown.preview.scrollPreviewWithEditor": true,
-    "ruff.importStrategy": "useBundled",
-    "editor.defaultFormatter": "charliermarsh.ruff",
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.formatOnSaveMode": "file",
@@ -32,11 +30,6 @@
         "source.fixAll": "always"
     },
     "files.autoSave": "onFocusChange",
-    "python.analysis.autoSearchPaths": true,
-    "python.analysis.diagnosticSeverityOverrides": {
-        "reportMissingImports": "none"
-    },
-    "python.terminal.activateEnvironment": true,
     "editor.cursorSmoothCaretAnimation": "on",
     "workbench.tree.enableStickyScroll": false,
     "material-icon-theme.hidesExplorerArrows": true,
@@ -46,5 +39,4 @@
     "explorer.confirmDragAndDrop": false,
     "explorer.decorations.badges": false,
     "editor.stickyScroll.enabled": false
-
 }
